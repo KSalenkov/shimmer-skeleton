@@ -10,7 +10,6 @@
 			rgba(225, 125, 106, 1) 80%
 		);
 		background-repeat: repeat-x;
-
 		background-attachment: fixed; // <-- то, из-за чего работает
 		background-size: 100vw 100%;
 
@@ -23,7 +22,7 @@
 		}
 
 		100% {
-			background-position: 100vw 0;
+			background-position: 50vw 0;
 		}
 	}
 }
